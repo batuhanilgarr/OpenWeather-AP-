@@ -1,1 +1,1 @@
-<center># OpenWeather-api</center>
+# OpenWeather-api
